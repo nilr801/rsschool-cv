@@ -4,25 +4,24 @@
 
 ![author](ilya.png)
 ---
-My Contacts:
----
+#My Contacts:
 * location: Minsk, Belarus
 * emails: nilr801@gmail.com, fpm.nagibov@bsu.by
 * phone: +375299082454
 * GitHub: [Ilya Nagibov](https://github.com/nilr801/rsschool-cv)
 ---
 
-##About Me:
+#About Me:
 
-######_I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills._
+_I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills._
+
 ---
-Skills:
----
+#Skills:
 * C++
 * Qt
 * GitHub
 ---
-##Code Example:
+#Code Example:
 ~~~
 int a=5;
 int b=3;
@@ -30,11 +29,11 @@ int sum=a+b;
 std::cout<<sum; 
 ~~~
 ---
-##Education:
+#Education:
 __BSU, FPMI, computer security, 2 course__
 
 ---
-##My knowledge:
+#My knowledge:
 предмет | оценка
 :---|:----:|
 мат.анализ| 8
